@@ -1,9 +1,3 @@
-# 非常规的库
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple PyQt5
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple PyQt5-tools
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pypiwin32
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautogui
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautoit
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
-- pip install -i https://pypi.tuna.tsinghua.edu.cn/simple win32gui
+使用V社官方工具，进行批量反编译_c文件的工具，直接从顶级目录遍历反编译，无需一个一个文件加选择
+
 
